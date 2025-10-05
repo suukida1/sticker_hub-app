@@ -1,0 +1,7 @@
+{
+  "name": "sticker_hub-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
